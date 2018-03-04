@@ -1,0 +1,7 @@
+<launch>
+
+    <node name="car107" pkg="car107" type="car107" output="screen">
+		<param name="num" type="int" value="1" />
+		<param name="s" type="string" value="/home/ren/slam/car107_data/img44Result" />
+    </node>
+</launch>

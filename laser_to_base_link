@@ -1,0 +1,48 @@
+rosrun tf tf_echo /front_laser /base_link
+At time 1747.087
+- Translation: [-0.120, 0.000, -0.333]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.000]
+            in RPY (degree) [0.000, -0.000, 0.000]
+At time 1747.087
+- Translation: [-0.120, 0.000, -0.333]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.000]
+            in RPY (degree) [0.000, -0.000, 0.000]
+At time 1748.087
+- Translation: [-0.120, 0.000, -0.333]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.000]
+            in RPY (degree) [0.000, -0.000, 0.000]
+At time 1749.087
+- Translation: [-0.120, 0.000, -0.333]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.000]
+            in RPY (degree) [0.000, -0.000, 0.000]
+At time 1750.087
+- Translation: [-0.120, 0.000, -0.333]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.000]
+            in RPY (degree) [0.000, -0.000, 0.000]
+
+
+
+rosrun tf tf_echo /base_link /front_laser
+At time 1952.927
+- Translation: [0.120, 0.000, 0.333]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.000]
+            in RPY (degree) [0.000, -0.000, 0.000]
+At time 1952.927
+- Translation: [0.120, 0.000, 0.333]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.000]
+            in RPY (degree) [0.000, -0.000, 0.000]
+At time 1953.927
+- Translation: [0.120, 0.000, 0.333]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.000]
+            in RPY (degree) [0.000, -0.000, 0.000]
+
+/jackal_velocity_controller/odom
+/jackal_velocity_controller/cmd_vel

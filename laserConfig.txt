@@ -1,0 +1,7 @@
+vx: 0.7
+angle_P: 0.5
+occ_thresh: 0.1
+vAngle: 0.5
+map_update_interval: 0.02
+maxUrange: 5
+minUrange: 0.3

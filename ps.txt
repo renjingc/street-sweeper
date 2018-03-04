@@ -1,0 +1,3 @@
+/imu/data 100hz
+/odom 50hz
+/ub31/image 55hz
